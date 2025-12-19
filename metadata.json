@@ -1,0 +1,7 @@
+{
+  "name": "Zulim Sabe-Tudo",
+  "description": "Uma assistente virtual inteligente e amigável baseada na personagem Zulim, especialista em ciência, história e geopolítica.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
